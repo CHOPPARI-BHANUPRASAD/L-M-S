@@ -1,0 +1,47 @@
+.bg{
+background-image:url("https://images2.alphacoders.com/261/26102.jpg");
+background-size:cover;
+color:white;
+padding:10px;
+}
+.bg1{
+background-image:url("https://neathousepartners.com/wp-content/uploads/2023/09/The-Best-HR-Books-of-2023.png");
+background-size:cover;
+padding:10px;
+color:black;
+font-size:19px;
+font-family:Times New Roman;
+}
+.b2{
+display:flex;
+justify-content:right;
+flex-direction:row;
+text-align:right;
+}
+.b{
+font-family:Times New Roman;
+font-style:oblique;
+color:white;
+text-align:center;}
+.bb{
+justify-content:center;
+background-color:white;}
+.bt{
+background-color:blue;
+justify-content:center;
+padding:3px;
+color:white;
+border-style:solid;
+border-radius:3px;
+border-color:white;
+border-width:2px;
+text-align:center;
+margin-left:550px;
+}
+.bbb{
+display:flex; 
+justify-content: space-between; 
+font-size: 28px; 
+font-weight: bold; 
+color:black;
+}
